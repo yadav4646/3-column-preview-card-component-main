@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap");
+
+ * {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  margin-top: 40px;
+  margin-left: 45px;
+}
+
+p {
+  font-family: Big;
+  font-size: x-large;
+  font-weight: bold;
+  color: white;
+  margin-top: 25px;
+  margin-left: 45px;
+}
+
+h2 {
+  color: white;
+  margin-top: 45px;
+  margin-left: 45px;
+}
+
+button {
+  margin-top: 45px;
+  display: flex;
+  margin-left: 45px;
+  border-radius: 20px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  margin-top: 25vh;
+  margin-right: 30vh;
+  margin-left: 30vh;
+  margin-bottom: 25vh;
+  height: 400px;
+}
+
+.SEDANS {
+  background-color: hsl(31, 77%, 52%);
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.SUVS {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.LUXURY {
+  background-color: hsl(179, 100%, 13%);
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.btn--orange {
+  color: hsl(31, 77%, 52%);
+  font-size: 18px;
+  line-height: 8px;
+  padding: 18px;
+  border-radius: 50px;
+  font-family: Georgia, serif;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  display: inline-block;
+}
+
+.btn--cyan{
+    color: hsl(184, 100%, 22%);
+    font-size: 18px;
+    line-height: 8px;
+    padding: 18px;
+    border-radius: 50px;
+    font-family: Georgia, serif;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: inline-block;
+}
+
+.btn--dark-cyan{
+    color: hsl(179, 100%, 13%)wwda;
+    font-size: 18px;
+    line-height: 8px;
+    padding: 18px;
+    border-radius: 50px;
+    font-family: Georgia, serif;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: inline-block;
+} 
+
+
+
+
